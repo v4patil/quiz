@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     static int result = 0;
     static int totalQuestions = 0;
-    int i = 0;
+    int i = 0;//250
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
